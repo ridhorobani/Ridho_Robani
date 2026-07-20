@@ -1,0 +1,8 @@
+{
+  "name": "ROBANI",
+  "description": "ROBANI Second Brain - A premium personal knowledge management system, trading journal, geopolitical intelligence, history, finance, and AI Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
